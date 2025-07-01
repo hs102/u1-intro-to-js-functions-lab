@@ -1,0 +1,10 @@
+Exercise 1 Result: 9
+Exercise 2 Result: unc
+Exercise 2 Result: fortnite generation
+Exercise 3 Result: is a vowel
+Exercise 4 Result: johnsmith@example.com
+Exercise 5 Result: Good morning, Sam!
+Exercise 6 Result: biggest number is 10
+Exercise 7 Result: 10
+Exercise 8 Result: 89.6
+Exercise 9 Result: 5

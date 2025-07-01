@@ -1,0 +1,22 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\Mrher\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\... 
+   2 node app.js\
+   3 node app.js\
+   4 node app.js
+   5 node app.js
+   6 node app.js
+   7 node app.js
+   8 node app.js
+   9 node app.js
+  10 node app.js
+  11 node app.js
+  12 node app.js
+  13 node app.js
+  14 node app.js
+  15 node app.js
+  16 node app.js
+  17 node app.js
+  18 node app.js
+  19 node app.js
+  20 git push
